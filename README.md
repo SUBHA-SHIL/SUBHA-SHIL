@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on WEB DEVELOPMENT using MERN Stack.<br>Curious about ARTIFICIAL INTELLIGENCE.<br>Good Listener, BEST Learner.<br>A Good CODE keeps in a Good MOOD.<br><br>
+I'm currently working on SOFTWARE DEVELOPMENT using MERN Stack.<br>Curious about ARTIFICIAL INTELLIGENCE.<br>Good Listener, BEST Learner.<br>A Good CODE keeps in a Good MOOD.<br>Provide me with time and resources, I can give your desired output.<br><br>
 
 
 ## 🌐 Socials:
